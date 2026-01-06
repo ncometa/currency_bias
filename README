@@ -1,2 +1,12 @@
 
 Code for submission: Uncovering Currency Bias and Syntax Gap in Text Embedding Models
+
+Notebooks :
+
+MRR.ipynb – Evaluates syntactic sensitivity gaps introduced by currency substitution
+
+associative_bias.ipynb – Analyzes associative (digital classism) bias between currencies and concepts such as luxury, poverty, malice, and safety
+
+sts.ipynb – Measures the effect of currency token replacements on semantic textual similarity scores.
+
+sentiment_analysis.ipynb – Studies sentiment shifts caused by replacing currency tokens in otherwise identical texts
