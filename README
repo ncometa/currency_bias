@@ -9,4 +9,4 @@ associative_bias.ipynb – Analyzes associative (digital classism) bias between 
 
 sentiment_analysis.ipynb – Studies sentiment shifts caused by replacing currency tokens in otherwise identical texts
 
-sts.ipynb – Measures the effect of currency token replacements on semantic textual similarity scores.
+STS.ipynb – Measures the effect of currency token replacements on semantic textual similarity scores.
